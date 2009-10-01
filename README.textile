@@ -1,3 +1,3 @@
 h1. Keymaker 
-h2. Authentication Gem developed using Clearance, with Admin Functionallity, OpenId, Facebook Connect and LinkedIn authentication
-!http://upload.wikimedia.org/wikipedia/en/8/8c/The_Keymaker.jpg
+p. Authentication Gem developed using Clearance, with Admin Functionallity, OpenId, Facebook Connect and LinkedIn authentication
+!http://upload.wikimedia.org/wikipedia/en/8/8c/The_Keymaker.jpg!
